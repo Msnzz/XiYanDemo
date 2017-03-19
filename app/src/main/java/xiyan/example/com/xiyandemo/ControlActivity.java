@@ -17,5 +17,6 @@ public class ControlActivity extends Activity {
             }
         });
         String s = new String();
+        String sa = new String();
     }
 }
